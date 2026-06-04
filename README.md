@@ -6,7 +6,7 @@
 
 ### Backend Engineer • Cloud & DevOps Enthusiast • IIIT Bhagalpur
 
-Building scalable backend systems, microservices, developer tools, and real-time applications.
+Building scalable backend systems, cloud-native applications, developer tools, and real-time communication platforms.
 
 <p>
 <a href="mailto:8707460911har@gmail.com">
@@ -34,80 +34,184 @@ Building scalable backend systems, microservices, developer tools, and real-time
 Name: Harsh Kharwar
 Education: IIIT Bhagalpur
 Year: Sophomore
-Role: Full Stack Engineer Intern @ Enginow
-Focus:
+Current Role: Full Stack Engineer Intern @ Enginow
+
+Primary Focus:
   - Backend Engineering
-  - Cloud Infrastructure
   - Distributed Systems
+  - Cloud Infrastructure
   - DevOps
   - Real-Time Communication
+
+Currently Exploring:
+  - Event Driven Systems
+  - System Design
+  - AI Infrastructure
+  - Kubernetes Ecosystem
 ```
 
-I enjoy building systems that solve real engineering problems using Go, TypeScript, PostgreSQL, Redis, Docker, Kubernetes, AWS, and modern backend architecture patterns.
+I enjoy designing and building scalable backend services, microservice-based applications, and developer-focused tools using Go, TypeScript, PostgreSQL, Redis, Docker, Kubernetes, and AWS.
 
-Currently exploring microservices, observability, event-driven systems, WebRTC, and AI-powered applications.
+---
+
+# Systems Engineering Stack
+
+## Frontend Systems
+
+```yaml
+React:
+  Status: Production
+
+React Native:
+  Status: Learning
+
+TypeScript:
+  Status: Production
+
+Tailwind CSS:
+  Status: Production
+
+GSAP:
+  Status: Advanced
+
+Motion:
+  Status: Intermediate
+```
+
+---
+
+## Backend Engineering
+
+```yaml
+Node.js:
+  Status: Production
+
+NestJS:
+  Status: Production
+
+Golang:
+  Status: Production
+
+Gin:
+  Status: Production
+
+GORM:
+  Status: Production
+
+Python:
+  Status: Intermediate
+
+FastAPI:
+  Status: Intermediate
+
+gRPC:
+  Status: Active
+
+REST APIs:
+  Status: Production
+
+WebSockets:
+  Status: Production
+
+WebRTC:
+  Status: Active
+```
+
+---
+
+## Databases & Data Infrastructure
+
+```yaml
+PostgreSQL:
+  Status: Production
+
+MongoDB:
+  Status: Production
+
+SQLite:
+  Status: Production
+
+Redis:
+  Status: Production
+
+RabbitMQ:
+  Status: Active
+
+BullMQ:
+  Status: Active
+
+Qdrant:
+  Status: Learning
+
+Neo4j:
+  Status: Learning
+```
+
+---
+
+## Cloud & Platform Engineering
+
+```yaml
+Docker:
+  Status: Production
+
+Docker Compose:
+  Status: Production
+
+Kubernetes:
+  Status: Active
+
+AWS:
+  Status: Active
+
+Terraform:
+  Status: Learning
+
+Ansible:
+  Status: Learning
+
+Linux:
+  Status: Production
+
+GitHub Actions:
+  Status: Production
+
+Jenkins:
+  Status: Active
+```
+
+---
+
+## Observability & Operations
+
+```yaml
+Prometheus:
+  Status: Active
+
+Grafana:
+  Status: Active
+
+Monitoring:
+  Status: Active
+
+Logging:
+  Status: Active
+
+CI/CD:
+  Status: Production
+```
 
 ---
 
 # Current Focus
 
-* Building production-grade backend services in Go
-* Designing microservice architectures
-* Learning advanced system design
-* Working with gRPC and event-driven communication
-* Practicing Kubernetes and cloud-native deployment
-* Building AI-integrated applications
-* Improving observability using Prometheus and Grafana
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,typescript,java,python,cpp" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
-</p>
-
-**Also Working With**
-
-* Gin
-* GORM
-* gRPC
-* REST APIs
-* JWT Authentication
-* WebSockets
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
-</p>
-
-### Messaging & Realtime
-
-* RabbitMQ
-* BullMQ
-* WebRTC
-* Socket.IO
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
+* Building backend services using Go and NestJS
+* Designing event-driven microservice architectures
+* Exploring distributed systems concepts
+* Working with gRPC and asynchronous communication
+* Learning cloud-native deployment patterns
+* Improving observability and monitoring practices
+* Building AI-powered applications and developer tools
 
 ---
 
@@ -115,80 +219,75 @@ Currently exploring microservices, observability, event-driven systems, WebRTC, 
 
 ## LeadVoice
 
-AI Voice Agent platform built using:
+AI Voice Agent platform built using NestJS Microservices, RabbitMQ, Redis, BullMQ, and PostgreSQL.
 
-* NestJS Microservices
-* RabbitMQ
-* Redis
-* BullMQ
-* PostgreSQL
-
-Features:
+**Highlights**
 
 * Event-driven architecture
-* Distributed workers
-* Queue-based processing
+* Distributed worker processing
+* Queue-based task execution
 * AI workflow orchestration
 
 ---
 
 ## DevFusion
 
-Online code execution platform.
+Online code execution and evaluation platform.
 
-Highlights:
+**Highlights**
 
 * Sandboxed code execution
 * AI-powered MCQ evaluation
-* Secure execution workers
+* Secure worker isolation
 * Multi-language support
 
-🏆 1st Place — DevFusion Hackathon
+🏆 **1st Place — DevFusion Hackathon**
 
 ---
 
 ## FaceID Native
 
-AI-based face recognition platform.
+Face recognition platform leveraging vector search and deep learning models.
 
-Tech:
+**Tech Stack**
 
 * SCRFD
 * ArcFace
 * Qdrant
 * FastAPI
 
-🏆 Best AI Implementation — QuasarXAI
+🏆 **Best AI Implementation — QuasarXAI**
 
 ---
 
 ## Cally
 
-WebRTC-based video communication platform.
+WebRTC-based real-time communication platform.
 
-Features:
+**Highlights**
 
-* Real-time signaling
 * SDP negotiation
 * Peer-to-peer communication
-* Low-latency media transfer
+* Real-time signaling
+* Low-latency media transport
 
 ---
 
 ## GinPro
 
-Backend API built using:
+Backend REST API platform built with Go.
 
-* Go
+**Tech Stack**
+
 * Gin
-* PostgreSQL
 * GORM
-* JWT
+* PostgreSQL
+* JWT Authentication
 
-Features:
+**Highlights**
 
-* Authentication
-* CRUD APIs
+* Authentication system
+* CRUD operations
 * Database optimization
 * Clean architecture
 
@@ -217,10 +316,11 @@ Microservices
 Cloud Computing
 DevOps
 System Design
+Event Driven Architecture
 AI Infrastructure
 Observability
 WebRTC
-Developer Tools
+Developer Tooling
 ```
 
 ---
@@ -229,7 +329,7 @@ Developer Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-DevOps117&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-DevOps117&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -241,22 +341,12 @@ Developer Tools
 
 # Philosophy
 
-> Build.
->
-> Break.
->
-> Measure.
->
-> Improve.
->
-> Repeat.
+> Build → Measure → Learn → Improve → Repeat
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-Always learning, always building.
+### Always Building. Always Learning.
 
 </div>
