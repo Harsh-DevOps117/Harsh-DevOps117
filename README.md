@@ -4,9 +4,9 @@
 
 # Harsh Kharwar
 
-### Backend Engineer • Cloud & DevOps Enthusiast • IIIT Bhagalpur
+### Full Stack Engineer • Backend & Cloud Enthusiast • IIIT Bhagalpur
 
-Building scalable backend systems, cloud-native applications, developer tools, and real-time communication platforms.
+Building scalable backend systems, event-driven architectures, AI-powered infrastructure, and immersive frontend experiences.
 
 <p>
 <a href="mailto:8707460911har@gmail.com">
@@ -22,7 +22,7 @@ Building scalable backend systems, cloud-native applications, developer tools, a
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Harsh-DevOps117\&color=10B981\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Harsh-DevOps117&color=10B981&style=for-the-badge)
 
 </div>
 
@@ -32,27 +32,38 @@ Building scalable backend systems, cloud-native applications, developer tools, a
 
 ```yaml
 Name: Harsh Kharwar
-Education: IIIT Bhagalpur
-Year: Sophomore
+Education: 3rd Year, Mechatronics & Automation Engineering, IIIT Bhagalpur
 
 Current Role:
   Full Stack Engineer Intern @ Enginow
 
 Primary Interests:
-  - Backend Engineering
-  - Distributed Systems
-  - Cloud Infrastructure
-  - DevOps
+  - Backend Engineering & Distributed Systems
+  - Cloud Infrastructure & DevOps
   - Real-Time Communication
+  - AI Infrastructure (Agents, RAG, Knowledge Graphs)
+  - Immersive Frontend (3D, Motion)
 ```
 
-I enjoy building backend services, event-driven systems, developer tools, and cloud-native applications using Go, TypeScript, PostgreSQL, Redis, Docker, Kubernetes, and AWS.
+I build backend services, event-driven systems, developer tools, and AI-powered applications using Go, TypeScript, PostgreSQL, Redis, Kafka, Docker, Kubernetes, and AWS — paired with high-craft frontends in React, React Native, and Three.js.
 
-Currently exploring distributed systems, observability, microservices, WebRTC, and AI-powered infrastructure.
+Currently exploring distributed systems, observability, microservices, agentic AI, and graph-based retrieval.
 
 ---
 
 ## Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,threejs" />
+</p>
+
+**Also Working With**
+
+`React Native` • `Zustand` • `Redux Toolkit` • `GSAP` • `Motion` • `Three.js`
+
+---
 
 ### Backend Engineering
 
@@ -69,12 +80,20 @@ Currently exploring distributed systems, observability, microservices, WebRTC, a
 ### Databases & Messaging
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,sqlite" />
 </p>
 
 **Infrastructure Components**
 
-`RabbitMQ` • `BullMQ` • `Qdrant` • `Neo4j`
+`RabbitMQ` • `BullMQ` • `Kafka Workers` • `Qdrant` • `Neo4j`
+
+---
+
+### AI / Agentic Systems
+
+**Stack**
+
+`LangChain` • `LangGraph` • `RAG Pipelines` • `Neo4j Knowledge Graphs` • `Qdrant Vector Search` • `ArcFace` • `SCRFD`
 
 ---
 
@@ -87,18 +106,6 @@ Currently exploring distributed systems, observability, microservices, WebRTC, a
 **Operations**
 
 `Prometheus` • `Grafana` • `CI/CD` • `Monitoring` • `Logging`
-
----
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
-</p>
-
-**Additional Tools**
-
-`React Native` • `GSAP` • `Motion`
 
 ---
 
@@ -203,7 +210,8 @@ Microservices
 Cloud Native Architecture
 System Design
 Event Driven Systems
-AI Infrastructure
+Agentic AI (LangGraph, RAG)
+Graph Databases (Neo4j)
 Scalable Backend Engineering
 Observability
 High Performance APIs
