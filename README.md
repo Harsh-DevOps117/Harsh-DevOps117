@@ -7,33 +7,38 @@
 
 
 
-<!-- HARSH KHARWAR • GitHub Profile All artwork below is original SVG, stored locally in ./assets/. Commit README.md and the entire assets/ directory to your Harsh-DevOps117/Harsh-DevOps117 profile repository. --> <div align="center"> <img src="./assets/hero.svg" alt="Harsh Kharwar — Software Engineer, Backend, Cloud and AI. Custom system architecture artwork." width="100%" /> <br /> <a href="https://github.com/Harsh-DevOps117"><img src="./assets/social-github.svg" alt="GitHub profile" height="41" /></a> <a href="https://www.linkedin.com/in/harsh-kharwar-093919282/"><img src="./assets/social-linkedin.svg" alt="LinkedIn" height="41" /></a> <a href="https://harsh-kharwar-portfolio-151594293917.asia-southeast1.run.app/"><img src="./assets/social-portfolio.svg" alt="Portfolio" height="41" /></a> <a href="mailto:8707460911har@gmail.com"><img src="./assets/social-email.svg" alt="Email Harsh" height="41" /></a> <a href="https://x.com/HarshKharw26262"><img src="./assets/social-x.svg" alt="X profile" height="41" /></a> <br /><br /> <img src="./assets/highlights.svg" width="100%" alt="Four engineering roles, two hackathon wins, IIIT Bhagalpur class of 2028, build-test-iterate mindset." /> </div>
-01 / HELLO, WORLD.
-I'm Harsh Kharwar, an engineering student at IIIT Bhagalpur and a developer who enjoys building the systems behind the interface — APIs, message queues, AI workflows, databases, and cloud deployments.
 
-I like projects where the interesting problems happen after the first demo: reliability, concurrency, failure handling, integration design, and observability. I also build full-stack experiences and keep learning in public.
 
-Building: WhatsApp AI workflows, backend services, and practical automation at ToriAte.
-Engineering quality: API and product-flow testing at Soni Consultancy, working on the European Pay project.
-Learning deeply: Go, distributed systems, system design, cloud infrastructure, and agentic AI.
-Outside engineering: Training & Placement Coordinator at IIIT Bhagalpur; DSA in Java.
-02 / ENGINEERING EXPERIENCE
-<img src="./assets/experience.svg" alt="Experience timeline: ToriAte AI and Full-Stack Intern from September 2026; Soni Consultancy Software Engineer Intern in Quality Engineering on the European Pay project from October 2026; Enginow backend internship in 2026; Goitdev frontend internship in 2025." width="100%" />
-My work spans AI + full-stack development, quality engineering, backend infrastructure, and frontend implementation. Most recently, I've worked on n8n/WhatsApp integrations, automated booking workflows, API testing, and structured defect reports.
 
-03 / WORK I'M PROUD OF
-<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/DevFusion"><img src="./assets/project-devfusion.svg" alt="DevFusion project card: isolated code execution and AI evaluation" width="100%" /></a> <sub><b>DevFusion / PrepGrid</b> — developer tooling, evaluation and sandboxing. <a href="https://github.com/Harsh-DevOps117/DevFusion">Explore code</a>.</sub> </td> <td width="50%" valign="top"> <img src="./assets/project-toridesk.svg" alt="Tori Desk project card: booking workflow automation and reliability" width="100%" /> <sub><b>Tori Desk</b> — email-to-booking automation, conflict checks, deduplication, and transactional outbox patterns. Work at ToriAte.</sub> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/GinPro"><img src="./assets/project-ginpro.svg" alt="GinPro project card: Go HTTP APIs, authentication and PostgreSQL" width="100%" /></a> <sub><b>GinPro</b> — Go service with authentication and database-backed APIs. <a href="https://github.com/Harsh-DevOps117/GinPro">Explore code</a>.</sub> </td> <td width="50%" valign="top"> <a href="https://github.com/Quasar-x-AI-2026/COD-i"><img src="./assets/project-codi.svg" alt="COD-i project card: face recognition, ArcFace embeddings and Qdrant" width="100%" /></a> <sub><b>COD-i / FaceID</b> — face recognition + vector search, built for QuasarX AI. <a href="https://github.com/Quasar-x-AI-2026/COD-i">Explore code</a>.</sub> </td> </tr> </table>
-Other things I've worked on: a multi-tenant learning platform with Go and Kafka-powered video transcoding; a NestJS AI lead-workflow backend; WebRTC real-time calling; and deployment workflows using Docker, AWS, and GitHub Actions.
+<!-- HARSH KHARWAR // GitHub Profile, motion edition Place this README.md and the complete assets/ folder in: https://github.com/Harsh-DevOps117/Harsh-DevOps117 GIF = GitHub-compatible animation. SVG = original animated vector artwork. All image paths are local. No third-party render services. --> <div align="center"> <a href="https://github.com/Harsh-DevOps117"><img src="./assets/hero.gif" width="100%" alt="Animated system architecture: Harsh Kharwar — backend, full-stack and AI engineer." /></a> <p> <a href="https://github.com/Harsh-DevOps117"><img src="./assets/social-github.png" height="35" alt="GitHub" /></a>&nbsp; <a href="https://www.linkedin.com/in/harsh-kharwar-093919282/"><img src="./assets/social-linkedin.png" height="35" alt="LinkedIn" /></a>&nbsp; <a href="https://harsh-kharwar-portfolio-151594293917.asia-southeast1.run.app/"><img src="./assets/social-portfolio.png" height="35" alt="Portfolio" /></a>&nbsp; <a href="mailto:8707460911har@gmail.com"><img src="./assets/social-email.png" height="35" alt="Email" /></a>&nbsp; <a href="https://x.com/HarshKharw26262"><img src="./assets/social-x.png" height="35" alt="X" /></a> </p> <sub>Animated SVG source: <a href="./assets/hero.svg">hero.svg</a> · GIF fallback is used above for consistent GitHub playback.</sub> </div>
+01 / ABOUT
+Hey, I'm Harsh. I study Mechatronics & Automation at IIIT Bhagalpur (2024–2028), but I spend most of my time building software: APIs, AI-driven workflows, full-stack products, deployment pipelines and the infrastructure that holds them together.
 
-04 / THE TOOLBOX
-<img src="./assets/stack.svg" width="100%" alt="Backend: Go, Node.js, NestJS, Gin, REST, WebSockets. Databases and messaging: PostgreSQL, Redis, MongoDB, Kafka, RabbitMQ. AI: LangChain, LangGraph, n8n, RAG, Qdrant. Cloud and frontend: Docker, AWS, GitHub Actions, React and Next.js." />
-Also in my workflow: TypeScript, Python, Java, SQL, React Native, Tailwind CSS, GSAP, Linux, Nginx, CI/CD, Prometheus, functional testing, regression testing, and bug reporting.
+I'm drawn to problems that start after an app works: reliability, queueing, edge cases, fault handling, performance and observability. I enjoy making things useful, and then figuring out how to make them hold up.
 
-05 / SMALL WINS, BIG LESSONS
-1st Place — DevFusion Hackathon. Built and demonstrated a developer-facing engineering project.
-Best AI Implementation — QuasarX AI Hackathon. Worked on a face recognition and retrieval pipeline.
-Training & Placement Coordinator — IIIT Bhagalpur. Helping connect students and recruiting teams.
-<div align="center"> <br /> <img src="./assets/footer.svg" width="100%" alt="Build. Test. Ship. Improve. Engineering is a loop, not a finish line." /> <br /> <sub>Open to conversations about backend engineering, full-stack development, AI systems, and building useful software.</sub> </div>
+At ToriAte: building WhatsApp automation, n8n flows, voice-agent integrations and supporting full-stack services.
+At Soni Consultancy: Software Engineer Intern (Quality Engineering), working on the European Pay project — testing product flows and APIs, reproducing bugs, and documenting issues.
+In my own work: exploring Go, distributed systems, agentic AI, Docker/AWS deployments, and Java DSA.
+On campus: Training & Placement Coordinator at IIIT Bhagalpur.
+<div align="center"><img src="./assets/flow.gif" width="100%" alt="Animated engineering workflow: WhatsApp, automation, backend, deployment and testing." /></div>
+02 / EXPERIENCE
+<div align="center"><img src="./assets/experience.png" width="100%" alt="Experience timeline for ToriAte, Soni Consultancy, Enginow and Goitdev Technologies." /></div>
+What that looks like in practice: Meta WhatsApp Cloud API and n8n orchestration, a developing WhatsApp voice-agent workflow, API and authentication-flow testing for European Pay, and Docker Compose / AWS EC2 / GitHub Actions deployment workflows. I also have prior experience with Node.js backend jobs and React interfaces.
+
+03 / PINNED WORK — SIX REPOS, SIX PROBLEMS
+These are the exact six projects pinned to my GitHub profile. The cards below are original SVG illustrations exported as animated GIFs for GitHub compatibility.
+
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/DevFusion"><img src="./assets/project-devfusion.gif" width="100%" alt="DevFusion — coding and evaluation platform" /></a><br/> <sub><b>DevFusion</b> · A developer-facing coding and evaluation platform, including sandboxed execution and interview tooling. <a href="https://github.com/Harsh-DevOps117/DevFusion">Source ↗</a></sub> </td> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/lead-conversion"><img src="./assets/project-lead-conversion.gif" width="100%" alt="Lead Conversion — AI workflow backend" /></a><br/> <sub><b>Lead Conversion</b> · NestJS-based AI lead-workflow backend designed around asynchronous processing and modular services. <a href="https://github.com/Harsh-DevOps117/lead-conversion">Source ↗</a></sub> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/GinPro"><img src="./assets/project-ginpro.gif" width="100%" alt="GinPro — REST APIs in Go" /></a><br/> <sub><b>GinPro</b> · A Go/Gin backend with authentication, REST endpoints and database-backed operations. <a href="https://github.com/Harsh-DevOps117/GinPro">Source ↗</a></sub> </td> <td width="50%" valign="top"> <a href="https://github.com/Quasar-x-AI-2026/COD-i"><img src="./assets/project-codi.gif" width="100%" alt="COD-i — FaceID Native" /></a><br/> <sub><b>COD-i / FaceID Native</b> · A face-detection and recognition pipeline using SCRFD, ArcFace, FastAPI and Qdrant vector search. <a href="https://github.com/Quasar-x-AI-2026/COD-i">Source ↗</a></sub> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/Learnyst"><img src="./assets/project-learnyst.gif" width="100%" alt="Learnyst — learning platform" /></a><br/> <sub><b>Learnyst</b> · A multi-tenant learning platform with asynchronous video-processing architecture. <a href="https://github.com/Harsh-DevOps117/Learnyst">Source ↗</a></sub> </td> <td width="50%" valign="top"> <a href="https://github.com/Harsh-DevOps117/SortMail"><img src="./assets/project-sortmail.gif" width="100%" alt="SortMail — AI email triage" /></a><br/> <sub><b>SortMail</b> · An AI-assisted inbox organization and prioritization project integrating Gmail with LLM features. <a href="https://github.com/Harsh-DevOps117/SortMail">Source ↗</a></sub> </td> </tr> </table>
+04 / ENGINEERING TOOLBOX
+<div align="center"><img src="./assets/stack.png" width="100%" alt="Tech stack including Go, Node.js, PostgreSQL, Kafka, Redis, AI agents, Docker, AWS and Next.js." /></div>
+Also working with: TypeScript · Python · Java · SQL · React Native · GSAP · Linux · WebRTC · Socket.IO · JWT · functional and regression testing · API debugging · CI/CD · monitoring.
+
+05 / MILESTONES
+🏆 1st Place — DevFusion Hackathon
+🏆 Best AI Implementation — QuasarX AI Hackathon
+🎓 Training & Placement Coordinator — IIIT Bhagalpur
+🌍 Remote software internships with international teams
+<div align="center"> <a href="mailto:8707460911har@gmail.com"><img src="./assets/footer.gif" width="100%" alt="Build, test, ship, repeat — animated footer artwork." /></a> <sub>Always up for conversations about backend engineering, developer tools, AI systems and thoughtful software.</sub> </div>
 
 
 
